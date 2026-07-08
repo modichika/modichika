@@ -11,6 +11,9 @@
 ### Core Stack:
 Python • Go • Kubernetes • Docker • Argo Workflows • LangGraph • Git
 
+### Current Tackling Issue:
+https://github.com/kubeflow/pipelines/issues/13239  area/sdk
+
 ### 📈 Open Source Footprint
 📌 [Selected Engineering Highlights](./highlights.md) — A deep dive into my core contributions.
 
