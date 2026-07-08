@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello there! I'm Shristi 👋
 
-<!--
-**modichika/modichika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│ profile   CS Undergrad | ML Infrastructure , Cloud-Native Orchestration│
+│ trust     Active Contributor @kubeflow under maintainer guidance      │
+│ impact    Built core SDK compiler fixes & automated LLM triage tools  │
+│ strength  Distributed workflow engines, Pipeline IR spec serialization │
+└────────────────────────────────────────────────────────────────────────┘
+```
+### Core Stack:
+Python • Go • Kubernetes • Docker • Argo Workflows • LangGraph • Git
 
-Here are some ideas to get you started:
+### 📈 Open Source Footprint
+📌 [Selected Engineering Highlights](./highlights.md) — A deep dive into my core contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 [Kubeflow Pipelines Portfolio](https://github.com/kubeflow/pipelines/pulls?q=is%3Apr+author%3Amodichika) — Tracking my compiler & agentic workflow PRs.
