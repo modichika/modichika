@@ -13,6 +13,9 @@ Python • Go • Kubernetes • Docker • Argo Workflows • LangGraph • Git
 
 ### Current Tackling Issue:
 https://github.com/kubeflow/pipelines/issues/13239  area/sdk
+### And it's opened PR:
+https://github.com/kubeflow/pipelines/pull/13707
+
 
 ### 📈 Open Source Footprint
 📌 [Selected Engineering Highlights](./highlights.md) — A deep dive into my core contributions.
