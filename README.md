@@ -2,7 +2,8 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│ profile   CS Undergrad | ML Infrastructure , Cloud-Native Orchestration, Distributed systems, Backend/Fullstack, Systems Engineering, System Design│
+│ profile   CS Undergrad | ML Infrastructure , Cloud-Native Orchestration,
+| Distributed systems, Backend/Fullstack, Systems Engineering.           │
 │ trust     Active Contributor @kubeflow under maintainer guidance      │
 │ impact    Built core SDK compiler fixes & automated LLM triage tools  │
 │ strength  Distributed workflow engines, Pipeline IR spec serialization │
